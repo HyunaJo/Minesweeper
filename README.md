@@ -38,3 +38,9 @@
 - 랭킹 화면
 <img src="https://github.com/HyunaJo/Minesweeper/assets/69022662/ea99adc3-20f2-46aa-b0fc-38af90e50d02"  width="500" height="300">
 <img src="https://github.com/HyunaJo/Minesweeper/assets/69022662/8fb33c06-7cb7-4694-b31f-9a9631dbf86b"  width="500" height="300">
+
+## 적용 기술
+- 개발 도구
+<img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=for-the-badge&logo=Visual Studio&logoColor=white">
+- 개발 언어
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
