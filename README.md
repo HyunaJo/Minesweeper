@@ -26,3 +26,15 @@
 - 난이도 선택 및 사용자 정의 화면
 <img src="https://github.com/HyunaJo/Minesweeper/assets/69022662/581baee5-f19f-4c78-8a2c-af75b542e547"  width="500" height="300">
 <img src="https://github.com/HyunaJo/Minesweeper/assets/69022662/a81fbbd8-6bea-484b-8d2d-7cff8c57a3af"  width="500" height="300">
+<br><br>
+
+- 게임 화면
+
+
+![성공게임](https://github.com/HyunaJo/Minesweeper/assets/69022662/8b58cc40-6938-418f-bc8a-a196cd7a5b98)
+![실패게임](https://github.com/HyunaJo/Minesweeper/assets/69022662/83ae328e-666b-4664-b221-108034fa5628)
+<br><br>
+
+- 랭킹 화면
+<img src="https://github.com/HyunaJo/Minesweeper/assets/69022662/ea99adc3-20f2-46aa-b0fc-38af90e50d02"  width="500" height="300">
+<img src="https://github.com/HyunaJo/Minesweeper/assets/69022662/8fb33c06-7cb7-4694-b31f-9a9631dbf86b"  width="500" height="300">
